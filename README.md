@@ -1,6 +1,6 @@
 # MiniCalculator
 A simple python mini calculator project
-A simple Python program that performs basic n
+A simple Python program that performs basic math operation:
 - Addition
 - Subtraction
 - Multiplication
